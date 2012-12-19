@@ -1,0 +1,4 @@
+vcp
+===
+
+JQuery Chess Plugin
